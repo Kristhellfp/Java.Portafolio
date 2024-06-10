@@ -46,7 +46,7 @@
 
 #### Métodos
 - Archivo:` MisMetodos.java`
-- Descripción: Convierte temperaturas entre Celsius, Fahrenheit y Kelvin.
+- Descripción: Colección de métodos utilitarios que se pueden reutilizar en otros programas.
 
 
 #### Convertir
