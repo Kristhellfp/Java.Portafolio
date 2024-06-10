@@ -1,3 +1,4 @@
+import convertir.ConversorDeMonedas;
 import intgrafica.Banner;
 import lista.ListaDeCompras;
 import matematicas.Mate;
@@ -49,6 +50,12 @@ public class Main {
                     ListaDeCompras.programa();
                     programa = false;
                     break;
+
+                case 7:
+                    ConversorDeMonedas.programa();
+                    programa = false;
+                    break;
+
                 case 10:
                     programa = false;
                     break;

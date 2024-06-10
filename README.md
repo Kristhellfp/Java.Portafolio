@@ -49,6 +49,11 @@
 - Descripción: Convierte temperaturas entre Celsius, Fahrenheit y Kelvin.
 
 
+#### Convertir
+- Archivo:` ConversorDeMonedas.java`
+- Descripción: Este programa ofrece la conversión de diferentes monedas, entre ellas se encuentran: quetzales, dólares y pesos mexicanos.
+
+
 ## Aportes y contribuciones:
 
 #### Licencia
