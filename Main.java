@@ -1,11 +1,11 @@
-import convertir.ConversorDeMonedas;
-import intgrafica.Banner;
+import conversor.ConversorDeMonedas;
+import interfaz_grafica.Banner;
 import lista.ListaDeCompras;
-import matematicas.Mate;
-import opciones.ListaDeOpciones;
-import programas.IMC;
-import convertir.Conversiones;
-import edades.CalcularEdad;
+import calculadora.Mate;
+import mis_metodos.ListaDeOpciones;
+import IMC.programaIMC;
+import conversor.Conversiones;
+
 import java.util.Scanner;
 
 public class Main {
@@ -35,7 +35,7 @@ public class Main {
                     programa = false;
                     break;
                 case 2:
-                    IMC.programaIMC();
+                    programaIMC.programaIMC();
                     programa = false;
                     break;
                 case 3:

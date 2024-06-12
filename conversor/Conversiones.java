@@ -1,5 +1,5 @@
-package convertir;
-import opciones.ListaDeOpciones;
+package conversor;
+import mis_metodos.ListaDeOpciones;
 
 import java.util.Scanner;
 

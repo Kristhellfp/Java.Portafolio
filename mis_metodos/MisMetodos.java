@@ -1,4 +1,4 @@
-package metodos;
+package mis_metodos;
 
 public class MisMetodos {
 }

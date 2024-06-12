@@ -1,4 +1,4 @@
-package intgrafica;
+package interfaz_grafica;
 
 public class Banner {
 

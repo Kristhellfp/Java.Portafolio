@@ -1,4 +1,4 @@
-package edades;
+package calculadora;
 import java.util.Scanner;
 public class CalcularEdad {
     int anno;
