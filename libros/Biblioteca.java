@@ -28,7 +28,7 @@ public class Biblioteca {
         System.out.println(libro2.getTitulo());
 
         //AUTORES
-        libro1.setAutor("Santiago");
+        libro1.setAutor("Kriss");
         System.out.println(libro1.getAutor());
         System.out.println(libro2.getAutor());
         System.out.println(libro3.getAutor());
