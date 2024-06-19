@@ -57,6 +57,11 @@
 - Archivo:`Biblioteca.java`
 - Descripción: Este programa muestra diversos libros, en los que muestra el autor, el título y la fecha.
 
+   #### Programación orientada (Escuela)
+- Archivo:`Escuela.java`
+- Descripción: Este programa muestra los nombres, correos, curso, sección, edad, y categorías correspondientes a los alumnos de segundo primaria.
+
+
 
 ## Aportes y contribuciones:
 
