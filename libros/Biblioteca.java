@@ -13,8 +13,8 @@ public class Biblioteca {
         Libro libro4 = new Libro("La casa de los espíritus", "Isabel Allende", "1982");
         Libro libro5 = new Libro("El amor en los tiempos del cólera", "Gabriel García Márquez", "1985");
         Libro libro6 = new Libro("Los funerales de la Mamá Grande", "Gabriel García Márquez", "1962");
-        Libro libro7 = new Libro("La invención de Morel", "Adolfo Bioy Casares", "1940");  // Bioy Casares, amigo de Borges y también influyente
-        Libro libro8 = new Libro("La ciudad y los perros", "Mario Vargas Llosa", "1963");  // Incluyo a Mario Vargas Llosa por su importancia literaria
+        Libro libro7 = new Libro("La invención de Morel", "Adolfo Bioy Casares", "1940");
+        Libro libro8 = new Libro("La ciudad y los perros", "Mario Vargas Llosa", "1963");
         Libro libro9 = new Libro("El otoño del patriarca", "Gabriel García Márquez", "1975");
         Libro libro10 = new Libro("La casa de los espíritus", "Isabel Allende", "1982");
 
@@ -28,7 +28,7 @@ public class Biblioteca {
         System.out.println(libro2.getTitulo());
 
         //AUTORES
-        libro1.setAutor("Santiago");
+        libro1.setAutor("Kriss");
         System.out.println(libro1.getAutor());
         System.out.println(libro2.getAutor());
         System.out.println(libro3.getAutor());
