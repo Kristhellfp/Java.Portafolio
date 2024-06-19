@@ -26,6 +26,14 @@ public class Biblioteca {
 
         System.out.println(libro1.getTitulo());
         System.out.println(libro2.getTitulo());
+        System.out.println(libro3.getTitulo());
+        System.out.println(libro4.getTitulo());
+        System.out.println(libro5.getTitulo());
+        System.out.println(libro6.getTitulo());
+        System.out.println(libro7.getTitulo());
+        System.out.println(libro8.getTitulo());
+        System.out.println(libro9.getTitulo());
+        System.out.println(libro10.getTitulo());
 
         //AUTORES
         libro1.setAutor("Kriss");
@@ -54,5 +62,14 @@ public class Biblioteca {
 
 
         System.out.println(libro1.toString());
+        System.out.println(libro2.toString());
+        System.out.println(libro3.toString());
+        System.out.println(libro4.toString());
+        System.out.println(libro5.toString());
+        System.out.println(libro6.toString());
+        System.out.println(libro7.toString());
+        System.out.println(libro8.toString());
+        System.out.println(libro9.toString());
+        System.out.println(libro10.toString());
     }
 }
