@@ -53,6 +53,10 @@
 - Archivo:` ConversorDeMonedas.java`
 - Descripción: Este programa ofrece la conversión de diferentes monedas, entre ellas se encuentran: quetzales, dólares y pesos mexicanos.
 
+  #### Programación orientada (Biblioteca)
+- Archivo:`Biblioteca.java`
+- Descripción: Este programa muestra diversos libros, en los que muestra el autor, el título y la fecha.
+
 
 ## Aportes y contribuciones:
 
